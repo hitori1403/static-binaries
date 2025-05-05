@@ -1,2 +1,2 @@
 # static-binaries
-Some Linux static binaries compiled by me.
+Some static binaries compiled by me.
